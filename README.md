@@ -51,10 +51,10 @@ This project is divided into three progressive phases, combining introductory le
 
 *Objective: Understand RL theory and set up the GPU-accelerated IsaacLab environment.*
 
-- [ ] **Node 1: IsaacLab & RL Environment Setup**
+- [X] **Node 1: IsaacLab & RL Environment Setup**
     - Install NVIDIA Isaac Sim and IsaacLab on a GPU-enabled workstation.
     - Run introductory RL examples (e.g., Cartpole or Anymal) provided in IsaacLab to verify the installation.
-- [ ] **Node 2: Literature Review on RL Locomotion**
+- [X] **Node 2: Literature Review on RL Locomotion**
     - Read seminal papers on Deep Reinforcement Learning applied to balancing/legged robots (e.g., PPO algorithm, Sim2Real transfer).
     - *Deliverable:* A brief reading report outlining why RL is used over traditional control theory for these specific robots.
 - [ ] **Node 3: Two-Wheeled Robot Sim Familiarization**
